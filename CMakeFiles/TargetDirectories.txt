@@ -1,0 +1,9 @@
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/install/strip.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/install/local.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/rebuild_cache.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/install.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/list_install_components.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/print.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/check.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/test.dir
+/home/sergey/sergeyiandronov/workspace/projects/lab06/CMakeFiles/edit_cache.dir
